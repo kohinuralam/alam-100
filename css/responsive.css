@@ -1,0 +1,322 @@
+@media screen and (min-width: 1200px) and (max-width: 1400px) {
+
+	.what-area .what-item1 li {
+	   margin-right: 40px;
+	}
+
+	.what-area ul li {
+		font-size: 37px;
+	}
+	
+	
+}
+
+/* FOR-LG-START */
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+	.header-area .main-nav ul li {
+	  	padding-right: 20px;
+	}
+
+	.what-area .what-item1 li {
+	   margin-right: 30px;
+	}
+
+	.what-area ul li {
+		font-size: 30px;
+	}
+
+	.sound-man img {
+	  transform: scale(1.1);
+	 
+	}
+
+	.footer-right {
+		margin-top: 60px;
+	}
+
+	.footer-area .contact-form input[type="submit"] {
+	  	margin-bottom: 40px;
+	}
+
+	.copyright-right .col-lg-2 {
+		width: 50%;
+		flex: 50%;
+	}
+
+	.copyright-itme {
+		margin-top: 30px;
+	}
+} 
+
+/*FOR-TABLATE-START*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+	.hero-area .hero-left {
+		text-align: center;
+		margin-top: 40px;
+	}
+
+	.hero-area .hero-left h2 {
+	   font-size: 35px;
+	}
+
+	.hero-area .hero-middle {
+		text-align: center;
+		margin-top: 30px;
+	}
+
+	.hero-area .hero-right {
+	  	justify-content: center;
+	  	margin-top: 30px;
+	}
+
+	.what-area {
+	  padding: 60px 0 50px 0;
+	}
+
+	.what-area .what-title h2 {
+	  	font-size: 35px;
+	}
+
+	.what-area ul li {
+		font-size: 18px;
+	}
+
+	.what-area .what-item1 {
+	   justify-content: center;
+	}
+
+	.what-area .what-item1 li {
+	  	margin-right: 35px;
+	}
+
+	.what-area ul {
+	   margin: 40px 0 0 0;
+	}
+
+
+	.what-area .what-item2,
+	.what-area .what-item3 {
+	  justify-content: center;
+	}
+
+	.what-area .what-item2 li,
+	.what-area .what-item3 li {
+	  margin-right: 35px;
+	}
+
+	.what-area .what-item2 li:last-child,
+	.what-area .what-item3 li:last-child {
+	  margin-right: 0;
+	}
+
+	.work-area {
+		padding: 70px 0 100px 0;
+	}
+
+	.work-area .work-title h2 {
+	  font-size: 50px;
+	 
+	}
+
+	.slide {
+		min-width: 30px;
+	}
+
+	.slider {
+	   height: calc(100vh - 50vh);
+	}
+
+	.sound-man img {
+	  transform: scale(1.1);
+	 
+	}
+
+	.sound-title h2 {
+	  font-size: 50px;
+	}
+
+     .footer-right {
+		margin-top: 60px;
+	}
+
+	.footer-area .contact-form input[type="submit"] {
+	  	margin-bottom: 40px;
+	}
+
+	.copyright-right .col-lg-2 {
+		width: 50%;
+		flex: 50%;
+	}
+
+	.copyright-right h4 {
+		margin-top: 30px;
+	}
+
+}
+
+/*FOR-MOBIL-START*/
+@media screen and (max-width: 767px) {
+
+	.hero-area .hero-left {
+		text-align: center;
+	}
+
+	.hero-area .hero-left h2 {
+	   font-size: 30px;
+	}
+
+	.hero-area .hero-middle {
+		text-align: center;
+		margin-top: 30px;
+	}
+
+	.hero-area .hero-right {
+	  	justify-content: center;
+	  	margin-top: 30px;
+	}
+
+	.what-area {
+	  padding: 60px 0 50px 0;
+	}
+
+	.what-area .what-title h2 {
+	  	font-size: 35px;
+	}
+
+	.what-area ul li {
+		font-size: 16px;
+	}
+
+	.what-area .what-item1 {
+	   justify-content: center;
+	}
+
+	.what-area ul {
+	  margin: 30px 0 0 0;
+	}
+
+	.what-area .what-item1 li {
+	  	margin-right: 20px;
+	  	margin-top: 12px;
+	}
+
+	.what-area .what-item2,
+	.what-area .what-item3 {
+	  justify-content: center;
+	}
+
+	.what-area .what-item2 li,
+	.what-area .what-item3 li {
+	  margin-right: 5px;
+	  margin-top: 14px;
+	}
+
+	.what-area .what-item2 li:last-child,
+	.what-area .what-item3 li:last-child {
+	  margin-right: 0;
+	}
+
+	.work-area {
+  		padding: 33px 0 70px 0;
+	}
+
+	.work-area 
+	.work-title h2 {
+	   font-weight: 700;
+	   font-size: 40px;
+	   color: #000000;
+	}
+
+	.slider {
+	  margin-top: 40px;
+	}
+
+	.slide {
+		min-width: 20px;
+	}
+
+	.slider {
+	   height: calc(100vh - 70vh);
+	}
+
+	.sound-area {
+	  padding: 35px 0 50px 0;
+	}
+
+	.sound-area .sound-title h2 {
+	   font-size: 35px;
+	}
+
+	.sound-man img {
+	  transform: scale(1.1);
+	 
+	}
+
+	.footer-area .footer-left h4 {
+	  font-size: 30px;
+	  text-align: center;
+	}
+
+	.footer-area .contact-form input[type="submit"] {
+		  margin-bottom: 30px;
+	}
+
+	.footer-left-img img {
+	  width: 100%;
+	  height: 280px;
+	  
+	}
+
+	.footer-area .footer-right {
+	margin-top: 30px;
+	}
+
+	.footer-area 
+	.footer-left h2 {
+	  font-size: 45px;
+	  text-align: center;
+	}
+
+	.footer-area .footer-right p {
+	  text-align: center;
+	 }
+
+	 .copyright-area {
+	   padding: 46px 0 0 0;
+	}
+
+	 .copyright-right .col-lg-2 {
+		width: 100%;
+		flex: 100%;
+	}
+
+	.copyright-left {
+		margin-bottom: 20px;
+	}
+
+	.copyright-itme h4 {
+		margin-top: 20px;
+		margin-bottom: 15px;
+	}
+
+	.copy-btm-left ul {
+		justify-content: center;
+	}
+
+	.copy-btm-right {
+		margin-top: 30px;
+	}
+
+	.copy-btm-right ul {
+	   justify-content: center;
+	}
+
+}
+
+
+
+
+		
+		         
